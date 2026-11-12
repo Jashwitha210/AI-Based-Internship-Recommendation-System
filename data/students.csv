@@ -1,0 +1,11 @@
+student_id,name,degree,branch,cgpa,skills,preferred_domain,preferred_location,preferred_work_mode,expected_stipend
+STU001,Student 1,BTech,AIML,9.06,"Python,SQL,Machine Learning,Git",Artificial Intelligence,Hyderabad,Hybrid,15000
+STU002,Student 2,BTech,CSE,8.70,"Java,SQL,DSA,Git",Software Development,Hyderabad,Hybrid,14000
+STU003,Student 3,BTech,AIML,8.90,"Python,Pandas,NumPy,Machine Learning",Data Science,Bangalore,Hybrid,16000
+STU004,Student 4,BTech,CSE,8.40,"HTML,CSS,JavaScript,React",Web Development,Remote,Remote,10000
+STU005,Student 5,BTech,AIML,9.10,"Python,Linux,AWS,Git",Cloud Computing,Bangalore,Hybrid,15000
+STU006,Student 6,BTech,CSE,8.60,"Python,Linux,Networking,Security",Cybersecurity,Hyderabad,On-site,14000
+STU007,Student 7,BTech,AIML,9.20,"Python,OpenCV,NumPy,Machine Learning",Artificial Intelligence,Remote,Remote,16000
+STU008,Student 8,BTech,CSE,8.80,"Python,Pandas,NumPy,Machine Learning",Data Science,Pune,Hybrid,15000
+STU009,Student 9,BTech,CSE,8.50,"Java,SQL,DSA,Git",Software Development,Hyderabad,Hybrid,14000
+STU010,Student 10,BTech,AIML,9.00,"Python,Deep Learning,TensorFlow,Machine Learning",Artificial Intelligence,Bangalore,On-site,18000

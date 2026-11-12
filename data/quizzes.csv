@@ -1,0 +1,9 @@
+question_id,topic,question,option_a,option_b,option_c,option_d,answer
+Q001,Python,Which keyword is used to define a function in Python?,function,def,fun,define,B
+Q002,Python,Which data type stores key-value pairs?,List,Tuple,Dictionary,Set,C
+Q003,SQL,Which command is used to retrieve data from a database?,INSERT,SELECT,UPDATE,DELETE,B
+Q004,Machine Learning,Which algorithm is used for classification?,Linear Regression,Decision Tree,Apriori,PCA,B
+Q005,Python,Which library is commonly used for data analysis?,Pandas,Flask,Django,FastAPI,A
+Q006,Machine Learning,What does ML stand for?,Machine Language,Machine Learning,Model Logic,Manual Learning,B
+Q007,Git,Which command uploads local commits to a remote repository?,git pull,git clone,git push,git init,C
+Q008,Web Development,Which language is used to style HTML pages?,Python,CSS,SQL,Java,C

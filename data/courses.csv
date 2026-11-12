@@ -1,0 +1,11 @@
+course_id,course_name,skills,platform,level
+C001,Python Programming,"Python",Coursera,Beginner
+C002,SQL for Data Analysis,"SQL",Coursera,Beginner
+C003,Machine Learning Fundamentals,"Machine Learning,Scikit-learn",Coursera,Intermediate
+C004,Pandas and NumPy,"Pandas,NumPy",Kaggle,Beginner
+C005,Git and GitHub,"Git",GitHub,Beginner
+C006,Deep Learning,"Deep Learning,TensorFlow",Coursera,Advanced
+C007,Web Development,"HTML,CSS,JavaScript",freeCodeCamp,Beginner
+C008,React Development,"React,JavaScript",freeCodeCamp,Intermediate
+C009,Cloud Computing,"AWS,Linux",AWS,Intermediate
+C010,Cybersecurity Fundamentals,"Security,Networking,Linux",Cisco,Beginner

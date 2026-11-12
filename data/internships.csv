@@ -1,0 +1,11 @@
+internship_id,company,role,domain,required_skills,location,work_mode,stipend,employer_rating
+INT001,TechNova,Python Developer,Software Development,"Python,SQL,Git",Hyderabad,Hybrid,15000,4.5
+INT002,DataWorks,Data Analyst,Data Science,"Python,SQL,Pandas,Excel",Bangalore,Hybrid,18000,4.3
+INT003,AI Labs,Machine Learning Intern,Artificial Intelligence,"Python,Machine Learning,Scikit-learn,NumPy",Hyderabad,On-site,20000,4.7
+INT004,WebCraft,Frontend Developer,Web Development,"HTML,CSS,JavaScript,React",Remote,Remote,12000,4.2
+INT005,CloudNet,Cloud Intern,Cloud Computing,"Python,Linux,AWS,Git",Bangalore,Hybrid,16000,4.4
+INT006,SecureTech,Cybersecurity Intern,Cybersecurity,"Python,Linux,Networking,Security",Hyderabad,On-site,15000,4.1
+INT007,VisionAI,Computer Vision Intern,Artificial Intelligence,"Python,OpenCV,NumPy,Machine Learning",Remote,Remote,18000,4.6
+INT008,FinData,Data Science Intern,Data Science,"Python,Pandas,NumPy,Machine Learning",Pune,Hybrid,17000,4.5
+INT009,AppForge,Java Developer,Software Development,"Java,SQL,Git,DSA",Hyderabad,Hybrid,16000,4.0
+INT010,CloudAI,AI Research Intern,Artificial Intelligence,"Python,Deep Learning,TensorFlow,Machine Learning",Bangalore,On-site,22000,4.8
