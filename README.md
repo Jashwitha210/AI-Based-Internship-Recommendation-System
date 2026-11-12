@@ -632,7 +632,7 @@ Recommended:
 After the GitHub repository is created:
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-LINK>
+git clone <https://github.com/Jashwitha210/AI-Based-Internship-Recommendation-System>
 ```
 
 ---
